@@ -2,13 +2,13 @@
 <h3 align="center">I BUILD Human Networks! (Not Computer Networks; they suck :p)</h3>
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=ialimustufa alt=ialimustufa/> </p>
 
-- 🔭 I’m currently working on **Machine Learning**
+- 🔭 I’m currently working on **Machine Learning Fast Track**
 
-- 👯 I’m looking to collaborate on **Projects**
+- 👯 I’m looking to collaborate on **Projects, Talks, Workshops,,,,, Anything;**
 
 - 💬 Ask me about **ML, Community Building**
 
-- 📫 How to reach me **iali@ieee.org**
+- 📫 How to reach me **Raise a issue or see my social handles below**
 
 - ⚡ Fun fact **Breaking Bad?**
 
