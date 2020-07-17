@@ -1,8 +1,3 @@
-### Hi there 👋
-
-<!--
-**ialimustufa/ialimustufa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 <h1 align="center">Hi 👋, I'm Ali Mustufa</h1>
 <h3 align="center">I BUILD Human Networks! (Not Computer Networks; they suck :p)</h3>
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=ialimustufa alt=ialimustufa/> </p>
