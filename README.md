@@ -12,6 +12,8 @@
 
 - ⚡ Fun fact **Do you watch Breaking Bad?**
 
+<p> <img src=https://github-readme-stats.vercel.app/api?username=ialimustufa&show_icons=true alt=ialimustufa /> </p>
+
 <p align="center">
 <a href=https://dev.to/ialimustufa target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg alt="ialimustufa" height="20" width="20" /></a>
 <a href=https://twitter.com/ialimustufa target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg alt="ialimustufa" height="20" width="20" /></a>
