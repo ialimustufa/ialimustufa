@@ -6,11 +6,11 @@
 
 - 👯 I’m looking to collaborate on **Projects, Talks, Workshops,,,,, Anything;**
 
-- 💬 Ask me about **ML, Community Building**
+- 💬 Ask me about **ML, Community Building and APIs**
 
-- 📫 How to reach me **Raise a issue or see my social handles below**
+- 📫 How to reach me **Raise an issue or see my social handles below**
 
-- ⚡ Fun fact **Do you watch Breaking Bad?**
+- ⚡ I Love Watching **Breaking Bad, Suits and Big Bang Theory**
 
 <p> <img src=https://github-readme-stats.vercel.app/api?username=ialimustufa&show_icons=true alt=ialimustufa /> </p>
 
