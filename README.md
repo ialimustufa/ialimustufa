@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ali Mustufa</h1>
+<h1 align="center">Hey, I'm Ali Mustufa 👋</h1>
 <h3 align="center">I BUILD Human Networks! (Not Computer Networks; they suck :p)</h3>
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=ialimustufa alt=ialimustufa/> </p>
 
@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **ML, Community Building and APIs**
 
-- 📫 How to reach me **Raise an issue or see my social handles below**
+- 📫 How to reach me **Connect with me via social handles below**
 
 - ⚡ I Love Watching **Breaking Bad, Suits and Big Bang Theory**
 
