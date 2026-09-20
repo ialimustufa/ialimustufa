@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="152" height="40" viewBox="0 0 152 40" role="img" aria-labelledby="title">
+  <title id="title">Writing</title>
+  <rect x="0.5" y="0.5" width="151" height="39" rx="7" fill="#20292D" stroke="#4A565A"/>
+  <g transform="translate(14 12)" fill="none" stroke="#F0A16B" stroke-width="1.35" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M9.5 1.5H3.1a1.6 1.6 0 0 0-1.6 1.6v9.8a1.6 1.6 0 0 0 1.6 1.6h9.8a1.6 1.6 0 0 0 1.6-1.6V8.7"/>
+    <path d="m6 10 .6-3.1 5.3-5.3a1.4 1.4 0 0 1 2 2L8.6 8.9 6 10Zm5-7.5 2 2M4.7 12h5.5"/>
+  </g>
+  <text x="42" y="25" fill="#F6F3E9" font-family="Arial, sans-serif" font-size="13" font-weight="700">Writing</text>
+</svg>

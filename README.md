@@ -1,3 +1,10 @@
+<!-- Upload this README and the assets/ folder together to ialimustufa/ialimustufa. -->
+
+<picture>
+  <source media="(max-width: 600px)" srcset="./assets/workbench-mobile.svg" />
+  <img src="./assets/workbench.svg" width="100%" alt="Ali Mustufa’s personal workbench. Built from real life: Fluent for a talk across languages, Mirror for a daily practice, and Phrase Passport for a trip." />
+</picture>
+
 # Hey, I’m Ali 👋
 
 I’m a developer from Mumbai. I build AI apps, teach Python and APIs, and help run developer communities.
@@ -6,40 +13,55 @@ Most of my projects start with something I need: translating a talk, tracking my
 
 You’ll find some of those projects here, alongside courses and workshop code. Ask questions, point out confusing bits, or show me what you’ve built.
 
-[Website](https://alimustufa.com) · [LinkedIn](https://www.linkedin.com/in/ialimustufa/) · [YouTube](https://www.youtube.com/ialimustufa) · [Writing](https://alimustufa.com/writing/)
+<p>
+  <a href="https://alimustufa.com"><img src="./assets/link-website.svg" width="132" alt="Visit my website" /></a>
+  <a href="https://www.linkedin.com/in/ialimustufa/"><img src="./assets/link-linkedin.svg" width="132" alt="Connect on LinkedIn" /></a>
+  <a href="https://www.youtube.com/ialimustufa"><img src="./assets/link-youtube.svg" width="132" alt="Watch on YouTube" /></a>
+  <a href="https://alimustufa.com/writing/"><img src="./assets/link-writing.svg" width="132" alt="Read my writing" /></a>
+</p>
 
-## Learn with me
+### What brings you here?
 
-**[Python Crash Course](https://github.com/ialimustufa/python-crash-course)**  
-Eight practical notebooks covering Python fundamentals, files, and data preparation. Work through exercises in Google Colab, then bring everything together in a capstone.
+<p>
+  <a href="#learn"><img src="./assets/path-learn.svg" width="230" alt="Learn — Python and API courses" /></a>
+  <a href="#build"><img src="./assets/path-build.svg" width="230" alt="Build — explore my projects" /></a>
+  <a href="#connect"><img src="./assets/path-connect.svg" width="230" alt="Connect — developer communities and collaboration" /></a>
+</p>
 
-[Start the Python course →](https://ialimustufa.github.io/python-crash-course/)
+<a name="learn"></a>
 
-**[API Engineering](https://github.com/ialimustufa/API)**  
-Build TaskBox with Python and FastAPI while learning API design, authentication, testing, webhooks, and deployment.
+## 📓 Learn by doing
 
-[Start the API course →](https://ialimustufa.github.io/API/)
+- 🐍 **[Python Crash Course](https://ialimustufa.github.io/python-crash-course/)** — Eight Colab notebooks, from first program to data preparation. [Code ↗](https://github.com/ialimustufa/python-crash-course)
+- 🔌 **[API Engineering](https://ialimustufa.github.io/API/)** — Build, test, and deploy APIs with Python and FastAPI. [Code ↗](https://github.com/ialimustufa/API)
 
-## Things I’ve built
+<a name="build"></a>
 
-| Project | What it does | Explore |
-|---|---|---|
-| **Fluent** | Live presentation translation with translated audio, captions, synchronised slides, and audience participation. Built with React, Fastify, and Gemini Live. | [Code](https://github.com/ialimustufa/fluent-live-oss) · [Try it](https://fluent.alimustufa.com) |
-| **Mirror** | A facial-exercise companion built for my own Bell’s palsy practice. Uses MediaPipe to track movement, with camera processing in the browser. | [Code](https://github.com/ialimustufa/mirror-for-bells-palsy) · [Try it](https://mirror.alimustufa.com/try) |
-| **Phrase Passport** | Travel language and cultural guides with useful phrases, pronunciation audio, and saved content you can take offline. | [Try it](https://passport.alimustufa.com) · [How I built it](https://alimustufa.com/projects/passport/) |
+## 🛠️ From a personal need to a project
 
-*Mirror supports personal practice and self-tracking. It doesn’t diagnose or replace medical care.*
+🎙️ **Fluent** — Live translated audio, captions, and synced slides for presentations.  
+[Try it ↗](https://fluent.alimustufa.com) · [Code](https://github.com/ialimustufa/fluent-live-oss)
 
-## Around the community
+🪞 **Mirror** — Facial-exercise tracking for personal practice, not medical care.  
+[Try it ↗](https://mirror.alimustufa.com/try) · [Code](https://github.com/ialimustufa/mirror-for-bells-palsy)
+
+🧭 **Phrase Passport** — Travel phrases, pronunciation audio, and guides you can save offline.  
+[Try it ↗](https://passport.alimustufa.com) · [Build story](https://alimustufa.com/projects/passport/)
+
+<a name="connect"></a>
+
+## 🫶 Better with people
 
 I’m a founding organiser of **TensorFlow User Group Mumbai**, part of **AI Mumbai**, and lead **GitHub User Group Mumbai**.
 
 I teach at colleges, meetups, and conferences. I like sessions where people can ask an awkward question, try something, and change their mind.
 
-[Talks and workshops →](https://alimustufa.com/speaking/)
+[Talks and workshops ↗](https://alimustufa.com/speaking/)
 
-## Let’s connect
+---
 
-Found a bug or a confusing exercise? Open an issue in the relevant repository with what you tried and where you got stuck.
+### Got a question, a bug, or something you built?
 
-For collaborations, community sessions, or workshops, [get in touch](https://alimustufa.com/contact/).
+Open an issue in the relevant repository with what you tried and where you got stuck. For collaborations, community sessions, or workshops, [get in touch](https://alimustufa.com/contact/).
+
+<sub>Made in Mumbai. Shared with you.</sub>

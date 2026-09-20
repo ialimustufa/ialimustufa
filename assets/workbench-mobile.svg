@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="444" viewBox="0 0 600 444" role="img" aria-label="Ali Mustufa: built from real life. Fluent, Mirror, and Phrase Passport.">
+<defs><pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#C7C7BC" opacity=".6"/></pattern></defs>
+<rect width="600" height="444" rx="14" fill="#F6F3E9"/><rect width="600" height="444" rx="14" fill="url(#dots)"/>
+<rect x="32" y="25" width="25" height="25" rx="6" fill="#C4502F"/><path d="m42 31-5 7 5 6m6-13 5 7-5 6" fill="none" stroke="#FFF9ED" stroke-width="2" stroke-linejoin="round"/>
+<text x="72" y="43" fill="#253536" font-family="Courier New,monospace" font-size="15" font-weight="bold" letter-spacing="1">IALIMUSTUFA / FIELD NOTES</text>
+<text x="31" y="113" fill="#20292D" font-family="Georgia,serif" font-size="54" font-weight="bold" letter-spacing="-2">Built from real life.</text>
+<path d="M35 128q198 10 399 0" stroke="#C4502F" stroke-width="3" fill="none" stroke-linecap="round"/>
+<text x="34" y="159" fill="#4A5B59" font-family="Arial,sans-serif" font-size="18">A personal need. A project. Something to share.</text>
+<g><rect x="34" y="188" width="532" height="66" rx="10" fill="#FFFDFA" stroke="#C8CCC3"/><rect x="45" y="199" width="44" height="44" rx="9" fill="#E6EFED"/>
+<path d="M54 210h26v16H68l-6 6v-6h-8zM59 216h16" fill="none" stroke="#356B62" stroke-width="2" stroke-linejoin="round"/>
+<text x="103" y="214" fill="#20292D" font-family="Arial,sans-serif" font-size="21" font-weight="bold">Fluent</text><text x="103" y="237" fill="#4A5B59" font-family="Arial,sans-serif" font-size="17">A talk across languages</text><text x="519" y="228" fill="#72918A" font-family="Courier New,monospace" font-size="15">01</text></g>
+<g><rect x="34" y="266" width="532" height="66" rx="10" fill="#FFFDFA" stroke="#C8CCC3"/><rect x="45" y="277" width="44" height="44" rx="9" fill="#F5E8DD"/>
+<path d="M67 285c-10 0-13 6-13 13 0 10 5 17 13 17s13-7 13-17c0-7-3-13-13-13Zm0 3v24m-8-16h3m10 0h3m-13 9q5 5 10 0" fill="none" stroke="#B35F37" stroke-width="1.8" stroke-linecap="round"/>
+<text x="103" y="292" fill="#20292D" font-family="Arial,sans-serif" font-size="21" font-weight="bold">Mirror</text><text x="103" y="315" fill="#4A5B59" font-family="Arial,sans-serif" font-size="17">A daily practice</text><text x="519" y="306" fill="#B18A73" font-family="Courier New,monospace" font-size="15">02</text></g>
+<g><rect x="34" y="344" width="532" height="66" rx="10" fill="#FFFDFA" stroke="#C8CCC3"/><rect x="45" y="355" width="44" height="44" rx="9" fill="#ECE9F3"/>
+<path d="m54 365 9-4 9 4 9-4v25l-9 4-9-4-9 4Zm9-4v25m9-21v25" fill="none" stroke="#78638F" stroke-width="1.8" stroke-linejoin="round"/>
+<text x="103" y="370" fill="#20292D" font-family="Arial,sans-serif" font-size="21" font-weight="bold">Phrase Passport</text><text x="103" y="393" fill="#4A5B59" font-family="Arial,sans-serif" font-size="17">A guide for a trip</text><text x="519" y="384" fill="#9789A6" font-family="Courier New,monospace" font-size="15">03</text></g>
+</svg>

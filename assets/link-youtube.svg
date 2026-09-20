@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="152" height="40" viewBox="0 0 152 40" role="img" aria-labelledby="title">
+  <title id="title">YouTube</title>
+  <rect x="0.5" y="0.5" width="151" height="39" rx="7" fill="#20292D" stroke="#4A565A"/>
+  <g transform="translate(14 12)" fill="none" stroke="#F0A16B" stroke-width="1.35" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="0.8" y="2.5" width="14.4" height="11" rx="3"/>
+    <path d="m6.3 5.3 4.4 2.7-4.4 2.7Z" fill="#F0A16B" stroke="none"/>
+  </g>
+  <text x="42" y="25" fill="#F6F3E9" font-family="Arial, sans-serif" font-size="13" font-weight="700">YouTube</text>
+</svg>

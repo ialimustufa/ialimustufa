@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="440" viewBox="0 0 1200 440" role="img" aria-labelledby="title desc">
+<title id="title">Ali Mustufa’s personal workbench — built from real life.</title>
+<desc id="desc">An illustrated notebook connecting Fluent to a talk across languages, Mirror to a daily practice, and Phrase Passport to a trip.</desc>
+<defs><pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#C7C7BC" opacity=".6"/></pattern></defs>
+<rect width="1200" height="440" rx="16" fill="#F6F3E9"/><rect width="1200" height="440" rx="16" fill="url(#dots)"/>
+<path d="M56 91H560M56 365H560" stroke="#C8CCC3"/>
+<rect x="56" y="42" width="28" height="28" rx="7" fill="#C4502F"/><path d="m67 50-5 6 5 6m6-12 5 6-5 6" fill="none" stroke="#FFF9ED" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="98" y="61" fill="#253536" font-family="Courier New,monospace" font-size="15" font-weight="bold" letter-spacing="1.4">IALIMUSTUFA / FIELD NOTES</text>
+<text x="52" y="188" fill="#20292D" font-family="Georgia,serif" font-size="83" font-weight="bold" letter-spacing="-3">Built from</text>
+<text x="52" y="279" fill="#20292D" font-family="Georgia,serif" font-size="83" font-weight="bold" letter-spacing="-3">real life.</text>
+<path d="M57 296q154 12 308-1" stroke="#C4502F" stroke-width="5" fill="none" stroke-linecap="round"/>
+<text x="56" y="339" fill="#4A5B59" font-family="Arial,sans-serif" font-size="19">A personal need. A project. Something to share.</text>
+<text x="56" y="397" fill="#4A5B59" font-family="Courier New,monospace" font-size="12" letter-spacing="1.2">CODE + CURIOSITY + COMMUNITY</text>
+<g fill="none" stroke="#B6BEB2" stroke-width="2" stroke-linecap="round"><path d="M601 225H631Q651 225 651 205V137Q651 117 677 117H705"/><path d="M603 225H672"/><path d="M601 225H626Q649 225 649 248V309Q649 332 674 332H733"/></g>
+<circle cx="601" cy="225" r="10" fill="#C4502F"/><circle cx="601" cy="225" r="4" fill="#FFF9ED"/>
+<g><rect x="713" y="75" width="417" height="94" rx="12" fill="#20292D" opacity=".08"/><rect x="707" y="69" width="417" height="94" rx="12" fill="#FFFDFA" stroke="#C8CCC3"/><rect x="725" y="86" width="59" height="59" rx="12" fill="#E6EFED"/>
+<path d="M739 102h31v20h-13l-8 8v-8h-10z" fill="none" stroke="#356B62" stroke-width="2" stroke-linejoin="round"/><path d="M746 108h16m-16 7h10" stroke="#356B62" stroke-width="2" stroke-linecap="round"/>
+<text x="802" y="108" fill="#20292D" font-family="Arial,sans-serif" font-size="23" font-weight="bold">Fluent</text><text x="802" y="132" fill="#4A5B59" font-family="Arial,sans-serif" font-size="15">A talk across languages</text><text x="1081" y="104" fill="#72918A" font-family="Courier New,monospace" font-size="13">01</text></g>
+<g><rect x="677" y="184" width="417" height="94" rx="12" fill="#20292D" opacity=".08"/><rect x="671" y="178" width="417" height="94" rx="12" fill="#FFFDFA" stroke="#C8CCC3"/><rect x="689" y="195" width="59" height="59" rx="12" fill="#F5E8DD"/>
+<path d="M719 206c-12 0-16 7-16 16 0 12 6 20 16 20s16-8 16-20c0-9-4-16-16-16Z" fill="none" stroke="#B35F37" stroke-width="2"/><path d="M719 210v29m-10-20h3m14 0h3m-17 11q7 6 14 0" fill="none" stroke="#B35F37" stroke-width="2" stroke-linecap="round"/>
+<text x="766" y="217" fill="#20292D" font-family="Arial,sans-serif" font-size="23" font-weight="bold">Mirror</text><text x="766" y="241" fill="#4A5B59" font-family="Arial,sans-serif" font-size="15">A daily practice</text><text x="1045" y="213" fill="#B18A73" font-family="Courier New,monospace" font-size="13">02</text></g>
+<g><rect x="741" y="292" width="417" height="94" rx="12" fill="#20292D" opacity=".08"/><rect x="735" y="286" width="417" height="94" rx="12" fill="#FFFDFA" stroke="#C8CCC3"/><rect x="753" y="303" width="59" height="59" rx="12" fill="#ECE9F3"/>
+<path d="m766 321 11-5 11 5 12-5v29l-12 5-11-5-11 5Zm11-5v29m11-24v29" fill="none" stroke="#78638F" stroke-width="2" stroke-linejoin="round"/>
+<text x="830" y="325" fill="#20292D" font-family="Arial,sans-serif" font-size="23" font-weight="bold">Phrase Passport</text><text x="830" y="349" fill="#4A5B59" font-family="Arial,sans-serif" font-size="15">A guide for a trip</text><text x="1109" y="321" fill="#9789A6" font-family="Courier New,monospace" font-size="13">03</text></g>
+<path d="m1100 33 9 4 4 9 4-9 9-4-9-4-4-9-4 9z" fill="#C4502F"/>
+</svg>

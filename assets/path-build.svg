@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="230" height="72" viewBox="0 0 230 72" role="img" aria-label="02 — Build: Explore the projects">
+<rect x=".5" y=".5" width="229" height="71" rx="9" fill="#F5E8DD" stroke="#DEC7B7"/>
+<g fill="none" stroke="#B35F37" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m25 27-8 9 8 9m15-18 8 9-8 9m-5-24-5 30"/></g>
+<text x="64" y="30" fill="#20292D" font-family="Arial,sans-serif" font-size="15" font-weight="bold">02 / Build</text><text x="64" y="50" fill="#7A5540" font-family="Arial,sans-serif" font-size="12">Explore the projects</text><path d="M202 32h9m-4-4 4 4-4 4" fill="none" stroke="#B35F37" stroke-width="1.5"/>
+</svg>

@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="230" height="72" viewBox="0 0 230 72" role="img" aria-label="03 — Connect: People and community">
+<rect x=".5" y=".5" width="229" height="71" rx="9" fill="#ECE9F3" stroke="#CCC4DA"/>
+<g fill="none" stroke="#78638F" stroke-width="2" stroke-linecap="round"><circle cx="28" cy="28" r="6"/><path d="M16 48v-4q0-8 12-8t12 8v4m0-25a6 6 0 0 1 0 11m5 5q6 2 6 9"/></g>
+<text x="64" y="30" fill="#20292D" font-family="Arial,sans-serif" font-size="15" font-weight="bold">03 / Connect</text><text x="64" y="50" fill="#655474" font-family="Arial,sans-serif" font-size="12">People &amp; community</text><path d="M202 32h9m-4-4 4 4-4 4" fill="none" stroke="#78638F" stroke-width="1.5"/>
+</svg>
