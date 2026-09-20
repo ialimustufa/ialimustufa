@@ -32,21 +32,21 @@ You’ll find some of those projects here, alongside courses and workshop code. 
 
 ## 📓 Learn by doing
 
-- 🐍 **[Python Crash Course](https://ialimustufa.github.io/python-crash-course/)** — Eight Colab notebooks, from first program to data preparation. [Code ↗](https://github.com/ialimustufa/python-crash-course)
-- 🔌 **[API Engineering](https://ialimustufa.github.io/API/)** — Build, test, and deploy APIs with Python and FastAPI. [Code ↗](https://github.com/ialimustufa/API)
+- **[Python Crash Course](https://ialimustufa.github.io/python-crash-course/)** — Eight Colab notebooks, from first program to data preparation. [Code](https://github.com/ialimustufa/python-crash-course)
+- **[API Engineering](https://ialimustufa.github.io/API/)** — Build, test, and deploy APIs with Python and FastAPI. [Code](https://github.com/ialimustufa/API)
 
 <a name="build"></a>
 
 ## 🛠️ From a personal need to a project
 
-🎙️ **Fluent** — Live translated audio, captions, and synced slides for presentations.  
-[Try it ↗](https://fluent.alimustufa.com) · [Code](https://github.com/ialimustufa/fluent-live-oss)
+**Fluent** — Live translated audio, captions, and synced slides for presentations.  
+[Try it](https://fluent.alimustufa.com) · [Code](https://github.com/ialimustufa/fluent-live-oss)
 
-🪞 **Mirror** — Facial-exercise tracking for personal practice, not medical care.  
-[Try it ↗](https://mirror.alimustufa.com/try) · [Code](https://github.com/ialimustufa/mirror-for-bells-palsy)
+**Mirror** — Facial-exercise tracking for personal practice, not medical care.  
+[Try it](https://mirror.alimustufa.com/try) · [Code](https://github.com/ialimustufa/mirror-for-bells-palsy)
 
-🧭 **Phrase Passport** — Travel phrases, pronunciation audio, and guides you can save offline.  
-[Try it ↗](https://passport.alimustufa.com) · [Build story](https://alimustufa.com/projects/passport/)
+**Phrase Passport** — Travel phrases, pronunciation audio, and guides you can save offline.  
+[Try it](https://passport.alimustufa.com) · [Build story](https://alimustufa.com/projects/passport/)
 
 <a name="connect"></a>
 
@@ -56,7 +56,7 @@ I’m a founding organiser of **TensorFlow User Group Mumbai**, part of **AI Mum
 
 I teach at colleges, meetups, and conferences. I like sessions where people can ask an awkward question, try something, and change their mind.
 
-[Talks and workshops ↗](https://alimustufa.com/speaking/)
+[Talks and workshops](https://alimustufa.com/speaking/)
 
 ---
 
